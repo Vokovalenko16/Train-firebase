@@ -1,0 +1,73 @@
+body {
+    background-image: url("https://wallpapercave.com/wp/XWY4SR3.jpg");
+    background-repeat: none;
+}
+
+.mainheader{
+    font-size: 28px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+.clock{
+    margin-top: 15px;
+}
+.train-schedule >h5 {
+    margin: 3px;
+}
+
+input {
+    width: 770px;
+    height: 30px;
+
+}
+form {
+    font-size: 16px;
+    font-weight: bold;
+}
+.train-schedule {
+    position: relative;
+    left: 18%;
+    margin-top: 30px;
+    background-color: blue;
+    width: 800px;
+    height: auto;
+    opacity: .8;
+}
+
+.add-train >h5 {
+    margin: 4px;
+}
+.main-table {
+    background-color: white;
+    width: 800px;
+    border: 3px solid blue;
+    opacity: .8;
+}
+
+th {
+    width: 80px;
+}
+
+.add-train {
+    position: relative;
+    left: 18%;
+    margin-top: 30px;
+   background-color: blue;
+   width: 800px;
+   opacity: .8;
+}
+
+.main-window {
+    background-color: white;
+    border: 3px solid blue;
+    padding: 15px;
+}
+.btn-submit {
+    background-color: blue;
+    color: white;
+}
+
